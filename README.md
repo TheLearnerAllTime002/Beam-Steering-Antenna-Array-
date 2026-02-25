@@ -93,7 +93,7 @@ Implements conformal cylindrical array factor calculations accounting for:
 
 ## License
 
-MIT License - See LICENSE file for details
+No Licenses are provided to use this project. This is a self paced research work . 
 
 ## Contributing
 
